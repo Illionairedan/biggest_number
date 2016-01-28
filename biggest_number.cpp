@@ -8,7 +8,6 @@ int check(int a);
 
 int main()
 {
-	printf("HELLO WOLRD");
 	input();
 	solve();
 	printf("%d\n", odd+even);
